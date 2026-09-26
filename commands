@@ -1,0 +1,14 @@
+python -m venv venv
+
+Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
+
+.\venv\Scripts\Activate.ps1
+
+pip install langchain langchain-core langchain-ollama langchain-community langchain-classic gradio
+
+cltrl+] to intend the code
+
+all-minilm - model used for embedding
+
+
+when .invoke not added then the StructuredTool' object is not callable error comes

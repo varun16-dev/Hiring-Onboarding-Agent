@@ -1,0 +1,41 @@
+{
+  "2026-09-24": [
+    {
+      "slot_id": "INT001",
+      "time": "10:00 AM",
+      "interviewer": "Rahul Sharma",
+      "role": "AI/ML Technical Interview",
+      "available": true
+    },
+    {
+      "slot_id": "INT002",
+      "time": "2:00 PM",
+      "interviewer": "Priya Nair",
+      "role": "AI/ML Technical Interview",
+      "available": true
+    },
+    {
+      "slot_id": "INT003",
+      "time": "4:00 PM",
+      "interviewer": "Arun Kumar",
+      "role": "HR Interview",
+      "available": false
+    }
+  ],
+  "2026-09-25": [
+    {
+      "slot_id": "INT004",
+      "time": "11:00 AM",
+      "interviewer": "Rahul Sharma",
+      "role": "AI/ML Technical Interview",
+      "available": true
+    },
+    {
+      "slot_id": "INT005",
+      "time": "3:00 PM",
+      "interviewer": "Priya Nair",
+      "role": "HR Interview",
+      "available": true
+    }
+  ]
+}
