@@ -180,9 +180,6 @@ graph LR
     style W3 fill:#f5e1ff
     style OUTPUT fill:#e1f5ff
 ```
-
-## Conclusion & Usefulness```
-
 ## Conclusion & Usefulness
 This project is highly useful for HR departments, recruiters, and hiring managers as it automates several time-consuming administrative tasks. 
 
